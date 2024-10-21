@@ -1,0 +1,17 @@
+{
+    "name": "miguel.mateo/github-api-app",
+    "authors": [
+        {
+            "name": "Miguel Mateo",
+            "email": "miguelmateot94@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
